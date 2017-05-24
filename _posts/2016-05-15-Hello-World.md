@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Ratio of Heads and Tails
+title: Stop Clickbait! 
 published: true
-project: false
+project: true
 ---
 
-Hello World!!
+Bachelor Thesis Project under the guidance of **[Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/)** and in collaboration with **[Abhijnan Chakraborty](http://cse.iitkgp.ac.in/~abhijnan/)** and **Sourya Kakarla**.
+
+[ [Paper] ](https://raw.githubusercontent.com/bhargaviparanjape/bhargaviparanjape.github.io/master/documents/ASONAM2016.pdf) [ [Code] ](https://github.com/bhargaviparanjape/clickbait) [ [BibTex] ](https://scholar.google.com/scholar.bib?q=info:zuC8-MRarMMJ:scholar.google.com) [ [Dataset] ](https://github.com/bhargaviparanjape/clickbait/tree/master/dataset)
