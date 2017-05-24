@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-# Hi There!
+<!-- # Hi There! -->
 I am a **[Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)** at **[Microsoft Research India]( "https://www.microsoft.com/en-us/research/lab/microsoft-research-india/")**. I graduted from the **[Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)** with a **Bachelor's degree in [Computer Science and Engineering](http://cse.iitkgp.ac.in/)** in 2016. 
 <!-- /You can find my CV here :[CV](http://sudeepraja.github.io/CV.pdf) -->
 
