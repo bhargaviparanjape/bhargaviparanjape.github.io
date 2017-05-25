@@ -25,6 +25,7 @@ At Microsoft Research, I have worked on numerous projects, notably:
 ## Publications
 
 - *[Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media](https://bhargaviparanjape.github.io/documents/ASONAM2016.pdf)*
+
 Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly. 
 In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016. 
 *Best Student Paper Award*
