@@ -8,7 +8,7 @@ I am a **[Research Fellow](https://www.microsoft.com/en-us/research/lab/microsof
 
 My research interests lie in the areas of Natural Langauge Processing, Information Retreival, Text Mining, Sociolinguistics and Machine Learning.
 
-At IIT Kharagpur, I worked on the computational study of Clikbait Journalism in Online News and the Evolution of Social Movements in Online Social Networks as part of my Bachelor thesis work.
+At IIT Kharagpur, I worked on the computational study of Clikbait Journalism in online news and the evolution of Social Movements in online social networks(OSNs) as part of my Bachelor thesis work.
 
 At Microsoft Research, I have worked on numerous projects, notably:
 
