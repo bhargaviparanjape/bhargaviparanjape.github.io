@@ -8,15 +8,16 @@ I am a **[Research Fellow](https://www.microsoft.com/en-us/research/lab/microsof
 
 My research interests lie in the areas of Natural Langauge Processing, Information Retreival, Text Mining, Sociolinguistics and Machine Learning.
 
-At IIT Kharagpur, I worked on the compuational study of Clikbait Journalism in Online News and the evolution of Social Movements in Online Social Networks.
+At IIT Kharagpur, I worked on the computational study of Clikbait Journalism in Online News and the Evolution of Social Movements in Online Social Networks as part of my Bachelor thesis work.
 
 At Microsoft Research, I have worked on numerous projects, notably:
 
-- Expedition for Machine Learning algorithms for Resource Constrained Devices
-- Task Specific Document Expansion using Alternating Minimization
+- Machine Learning Algorithms for Resource Constrained Devices - Constraints and Challenges
+- Robust Psudeo-relevance Feedback using Associative Markov Networks
+- Task Specific Document Expansion by Alternating Minimization
 - Learning Sparse Document Embeddings for Text Classification and Information Retrieval
-- Robust Psudeo-Relevance Feedback for Information Retrieval using Structured Learning.
-- Bilingual Word Embeddings for Cross-lingual Text Classification and Cross-lingual Information Retreival
+- Learning Bilingual Word Embeddings for Cross-lingual Text Classification and Cross-lingual Information Retreival
+
 <!-- - Rationalizing predictions of deep neural models, including sequence-to-sequence models. -->
 
 ---
