@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-## Hello!
+<!-- ## Hello! -->
 I am a **[Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)** at **[Microsoft Research India]( "https://www.microsoft.com/en-us/research/lab/microsoft-research-india/")**. I graduted from the **[Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)** with a **Bachelor of Technology in [Computer Science and Engineering](http://cse.iitkgp.ac.in/)** in 2016. My [Resume](http://bhargaviparanjape.github.io/documents/CV.pdf).
 
 My research interests lie in the areas of Natural Langauge Processing, Information Retreival, Text Mining, Sociolinguistics and Machine Learning.
