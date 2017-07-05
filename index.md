@@ -30,5 +30,10 @@ Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly.
 In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016. 
 *Best Student Paper Award*
 
+- *[SCDV : Sparse Composite Document Vectors using soft clustering over distributional representations](https://arxiv.org/pdf/1612.06778.pdf)*
+
+Vivek Gupta, Dheerak Mekala, Bhargavi Paranjape, and Harish Karknick.
+In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing(EMNLP), Copenhagen, Denmark, September 2017.
+
 <!-- SCDV -->
 <!-- - ProtoNN -->
