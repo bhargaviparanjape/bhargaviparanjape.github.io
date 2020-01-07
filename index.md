@@ -12,21 +12,28 @@ I have an MS in Language Technology from CMU and a B.Tech in Computer Science an
 
 ## Publications
 
+- [Evaluating Influence Functions for Memory Replay in Continual Learning](https://drive.google.com/file/d/1RnWl5Nl2iK_uyVvS-l7xGpHmtAqgDkU5/view) <br />
+Sanket Vaibhav Mehta*, Bhargavi Paranjape*, Sumeet Singh*
+Workshop on Multi-Task and Lifelong Reinforcement Learning, ICML 2019
+
 - [Entity Projection via Machine-Translation for Cross-Lingual NER](https://arxiv.org/pdf/1909.05356.pdf) <br />
 Alankar Jain, Bhargavi Paranjape, Zachary C Lipton <br />
 EMNLP 2019
+
 
 - [Contextualized Representations for Low-resource Utterance Tagging](https://www.aclweb.org/anthology/W19-5909/) <br />
 Bhargavi Paranjape, Graham Neubig <br />
 SIGDIAL 2019
 
 - [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
-Aditi Chaudhary, Bhargavi Paranjape, Michiel de Jong <br />
+Aditi Chaudhary*, Bhargavi Paranjape*, Michiel de Jong* <br />
 Arxiv Preprint
+<![code](https://github.com/Aditi138/project747)!>
 
 - [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent.](https://zhenbai.io/wp-content/uploads/2018/10/IVA_2018_Camera_Ready.pdf) <br />
 Bhargavi Paranjape, Yubin Ge, Zhen Bai, Jessica Hammer, Justine Cassell <br />
 2018 ACM International Conference on Intelligent Virtual Agents (IVA)
+
 
 - [Predicting the temporal and social dynamics of curiosity in small group learning](https://zhenbai.io/wp-content/uploads/2018/08/aied-2018-camera.pdf) <br />
 Bhargavi Paranjape, Zhen Bai, and Justine Cassell <br />
