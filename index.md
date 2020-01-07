@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a first year PhD student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz). I am interested in question answering, explaining neural models and pre-training methods.
+I am a first year PhD student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz). I am interested in question answering, explaining neural models and pre-training methods. My [CV](https://bhargaviparanjape.github.io/documents/Resume_2020.pdf).
 
 I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), CMU and a B.Tech in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/).
 
