@@ -12,10 +12,8 @@ I have an MS in Language Technology from CMU and a B.Tech in Computer Science an
 
 ## Publications
 
-- *[Entity Projection via Machine-Translation for Cross-Lingual NER](https://arxiv.org/pdf/1909.05356.pdf)*
-
-Alankar Jain, Bhargavi Paranjape, Zachary C Lipton
-
+- [Entity Projection via Machine-Translation for Cross-Lingual NER](https://arxiv.org/pdf/1909.05356.pdf) <br />
+Alankar Jain, Bhargavi Paranjape, Zachary C Lipton <br />
 EMNLP 2019
 
 - *[Contextualized Representations for Low-resource Utterance Tagging](https://www.aclweb.org/anthology/W19-5909/)*
