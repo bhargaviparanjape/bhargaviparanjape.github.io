@@ -12,7 +12,7 @@ I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), CMU
 
 ## Publications
 
-- [Evaluating Influence Functions for Memory Replay in Continual Learning](https://drive.google.com/file/d/1RnWl5Nl2iK_uyVvS-l7xGpHmtAqgDkU5/view) <br />
+- [Evaluating Influence Functions for Memory Replay in Continual Learning](https://drive.google.com/file/d/1RnWl5Nl2iK_uyVvS-l7xGpHmtAqgDkU5/view){:target="_blank" rel="noopener"} <br />
 Sanket Vaibhav Mehta\*, Bhargavi Paranjap\*, Sumeet Singh\* <br />
 Workshop on Multi-Task and Lifelong Reinforcement Learning, ICML 2019
 
