@@ -20,40 +20,27 @@ EMNLP 2019
 Bhargavi Paranjape, Graham Neubig <br />
 SIGDIAL 2019
 
-- *[Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf)*
-
-Aditi Chaudhary, Bhargavi Paranjape, Michiel de Jong
-
+- [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
+Aditi Chaudhary, Bhargavi Paranjape, Michiel de Jong <br />
 Arxiv Preprint
 
-- *[Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent.](https://zhenbai.io/wp-content/uploads/2018/10/IVA_2018_Camera_Ready.pdf)*
-
-Bhargavi Paranjape, Yubin Ge, Zhen Bai, Jessica Hammer, Justine Cassell
-
+- [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent.](https://zhenbai.io/wp-content/uploads/2018/10/IVA_2018_Camera_Ready.pdf) <br />
+Bhargavi Paranjape, Yubin Ge, Zhen Bai, Jessica Hammer, Justine Cassell <br />
 2018 ACM International Conference on Intelligent Virtual Agents (IVA)
 
-- *[Predicting the temporal and social dynamics of curiosity in small group learning](https://zhenbai.io/wp-content/uploads/2018/08/aied-2018-camera.pdf)*
-
-Bhargavi Paranjape, Zhen Bai, and Justine Cassell
-
+- [Predicting the temporal and social dynamics of curiosity in small group learning](https://zhenbai.io/wp-content/uploads/2018/08/aied-2018-camera.pdf) <br />
+Bhargavi Paranjape, Zhen Bai, and Justine Cassell <br />
 2018 International Conference on Artificial Intelligence in Education (AIED)
 
-- *[ProtoNN: compressed and accurate kNN for resource-scarce devices](http://proceedings.mlr.press/v70/gupta17a/gupta17a.pdf)*
-
-Chirag Gupta, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain
-
+- [ProtoNN: compressed and accurate kNN for resource-scarce devices](http://proceedings.mlr.press/v70/gupta17a/gupta17a.pdf) <br />
+Chirag Gupta, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, Prateek Jain <br />
 ICML 2017
 
-- *[Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media](https://bhargaviparanjape.github.io/documents/ASONAM2016.pdf)*
-
-Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly
-
-2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)
-
+- [Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media](https://bhargaviparanjape.github.io/documents/ASONAM2016.pdf) <br />
+Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly <br />
+2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) <br />
 *Best Student Paper Award*
 
-- *[SCDV : Sparse Composite Document Vectors using soft clustering over distributional representations](https://arxiv.org/pdf/1612.06778.pdf)*
-
-Vivek Gupta, Dheerak Mekala, Bhargavi Paranjape, and Harish Karknick
-
+- [SCDV : Sparse Composite Document Vectors using soft clustering over distributional representations](https://arxiv.org/pdf/1612.06778.pdf) <br />
+Vivek Gupta, Dheerak Mekala, Bhargavi Paranjape, and Harish Karknick <br />
 EMNLP 2017
