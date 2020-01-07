@@ -13,7 +13,7 @@ I have an MS in Language Technology from CMU and a B.Tech in Computer Science an
 ## Publications
 
 - [Evaluating Influence Functions for Memory Replay in Continual Learning](https://drive.google.com/file/d/1RnWl5Nl2iK_uyVvS-l7xGpHmtAqgDkU5/view) <br />
-Sanket Vaibhav Mehta\*, Bhargavi Paranjap\*, Sumeet Singh\*
+Sanket Vaibhav Mehta\*, Bhargavi Paranjap\*, Sumeet Singh\* <br />
 Workshop on Multi-Task and Lifelong Reinforcement Learning, ICML 2019
 
 - [Entity Projection via Machine-Translation for Cross-Lingual NER](https://arxiv.org/pdf/1909.05356.pdf) <br />
