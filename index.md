@@ -51,3 +51,5 @@ Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly <br 
 - [SCDV : Sparse Composite Document Vectors using soft clustering over distributional representations](https://arxiv.org/pdf/1612.06778.pdf) <br />
 Vivek Gupta, Dheerak Mekala, Bhargavi Paranjape, and Harish Karknick <br />
 EMNLP 2017
+
+* equal contributions
