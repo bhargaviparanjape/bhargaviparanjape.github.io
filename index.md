@@ -16,10 +16,8 @@ I have an MS in Language Technology from CMU and a B.Tech in Computer Science an
 Alankar Jain, Bhargavi Paranjape, Zachary C Lipton <br />
 EMNLP 2019
 
-- *[Contextualized Representations for Low-resource Utterance Tagging](https://www.aclweb.org/anthology/W19-5909/)*
-
-Bhargavi Paranjape, Graham Neubig
-
+- [Contextualized Representations for Low-resource Utterance Tagging](https://www.aclweb.org/anthology/W19-5909/) <br />
+Bhargavi Paranjape, Graham Neubig <br />
 SIGDIAL 2019
 
 - *[Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf)*
