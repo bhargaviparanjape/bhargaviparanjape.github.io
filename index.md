@@ -49,7 +49,6 @@ Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly <br 
 Dheerak Mekala, Vivek Gupta, Bhargavi Paranjape, and Harish Karknick <br />
 EMNLP 2017
 
-\* equal contributions
 
 ## Preprints
 
@@ -58,3 +57,5 @@ Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
 
 - [An Information Bottleneck Framework for InterpretabilityThrough Controlled Sparsity](https://arxiv.org/pdf/1812.02253.pdf) <br />
 Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, and Luke Zettlemoyer <br />
+
+\* equal contributions
