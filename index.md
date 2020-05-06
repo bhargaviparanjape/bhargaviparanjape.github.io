@@ -52,11 +52,12 @@ EMNLP 2017
 
 ## Preprints
 
-- [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
-Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
-
 - [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://bhargaviparanjape.github.io/documents/Explainable_NLU_IB.pdf) <br />
 [Arxiv Link](https://arxiv.org/abs/2005.00652) <br />
 Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, and Luke Zettlemoyer <br />
+
+- [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
+Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
+
 
 \* equal contributions
