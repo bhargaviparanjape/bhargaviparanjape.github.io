@@ -56,6 +56,7 @@ EMNLP 2017
 Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
 
 - [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://bhargaviparanjape.github.io/documents/Explainable_NLU_IB.pdf) <br />
+[Arxiv Link](https://arxiv.org/abs/2005.00652) <br />
 Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, and Luke Zettlemoyer <br />
 
 \* equal contributions
