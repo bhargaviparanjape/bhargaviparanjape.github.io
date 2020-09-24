@@ -12,6 +12,10 @@ I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), Car
 
 ## Publications
 
+- [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://bhargaviparanjape.github.io/documents/Explainable_NLU_IB.pdf) <br />
+Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, and Luke Zettlemoyer <br />
+EMNLP 2020
+
 - [Evaluating Influence Functions for Memory Replay in Continual Learning](https://drive.google.com/file/d/1RnWl5Nl2iK_uyVvS-l7xGpHmtAqgDkU5/view) <br />
 Sanket Vaibhav Mehta\*, Bhargavi Paranjap\*, Sumeet Singh\* <br />
 Workshop on Multi-Task and Lifelong Reinforcement Learning, ICML 2019
@@ -52,12 +56,13 @@ EMNLP 2017
 
 ## Preprints
 
-- [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://bhargaviparanjape.github.io/documents/Explainable_NLU_IB.pdf) <br />
-[Arxiv Link](https://arxiv.org/abs/2005.00652) <br />
-Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, and Luke Zettlemoyer <br />
-
 - [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
 Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
+
+## Professional Contributions
+
+- Reviewer at EMNLP 2020, AKBC 2020
+- Organizing HAMLETS (Human And Machine in-the-Loop Evaluation and Learning Strategies) workshop at Neurips 2020.
 
 
 \* equal contributions
