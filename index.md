@@ -28,10 +28,6 @@ EMNLP 2019
 Bhargavi Paranjape, Graham Neubig <br />
 SIGDIAL 2019
 
-- [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
-Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
-Arxiv Preprint
-
 - [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent.](https://zhenbai.io/wp-content/uploads/2018/10/IVA_2018_Camera_Ready.pdf) <br />
 Bhargavi Paranjape, Yubin Ge, Zhen Bai, Jessica Hammer, Justine Cassell <br />
 2018 ACM International Conference on Intelligent Virtual Agents (IVA)
@@ -55,6 +51,9 @@ EMNLP 2017
 
 
 ## Preprints
+
+- [FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation](https://arxiv.org/abs/2012.15482) <br />
+Kushal Lakhotia*, Bhargavi Paranjape, Asish Ghoshal, Wen-tau Yih, Yashar Mehdad, Srinivasan Iyer*
 
 - [Weighted Global Normalization for Multiple Choice ReadingComprehension over Long Documents](https://arxiv.org/pdf/1812.02253.pdf) <br />
 Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
