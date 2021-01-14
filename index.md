@@ -60,7 +60,7 @@ Aditi Chaudhary\*, Bhargavi Paranjape\*, Michiel de Jong\* <br />
 
 ## Professional Contributions
 
-- Reviewer at EMNLP 2020, AKBC 2020
+- Reviewer at EMNLP 2020, AKBC 2020, NAACL 2021
 - Organizing HAMLETS (Human And Machine in-the-Loop Evaluation and Learning Strategies) workshop at Neurips 2020.
 
 
