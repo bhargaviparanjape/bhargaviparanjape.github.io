@@ -12,6 +12,10 @@ I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), Car
 
 ## Publications
 
+- [Prompting Contrastive Explanations for Commonsense Reasoning Tasks](https://bhargaviparanjape.github.io/documents/contrastive_explanations_ACL2021.pdf)<br />
+Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Luke Zettlemoyer, and Hannaneh Hajishirzi <br />
+ACL 2021
+
 - [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://bhargaviparanjape.github.io/documents/Explainable_NLU_IB.pdf) <br />
 Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, and Luke Zettlemoyer <br />
 EMNLP 2020
