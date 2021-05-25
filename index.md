@@ -7,7 +7,7 @@ I am a second year PhD student at [Paul G. Allen School of Computer Science & En
 
 My research focuses on explainable AI and interpretability of deep neural models, with a focus on natural language processing tasks and pretrained models. I am currently working on developing evaluation and modeling techniques for large pretrained langauge models to provide [faithful](https://arxiv.org/abs/2004.03685), yet readable, explanations for their decisions.
 
-I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), Carnegie Mellon University and a B.Tech in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/). My [CV](https://bhargaviparanjape.github.io/documents/Resume_2020.pdf).
+I was a visiting researcher at Facebook AI Research, Seattle in 2020. I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), Carnegie Mellon University and a B.Tech in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/). My [CV](https://bhargaviparanjape.github.io/documents/Resume_2020.pdf).
 
 ---
 
