@@ -9,7 +9,6 @@ My research focuses on explainable AI and interpretability of deep neural models
 
 I have an MS in Language Technology from [LTI](https://www.lti.cs.cmu.edu/), Carnegie Mellon University and a B.Tech in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/). My [CV](https://bhargaviparanjape.github.io/documents/Resume_2020.pdf).
 
-
 ---
 
 ## Publications
