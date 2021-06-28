@@ -3,11 +3,14 @@ layout: page
 published: true
 ---
 
-I am a second year PhD student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
+I am a third year PhD student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, where I am advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
 
 My research focuses on explainable AI and interpretability of deep neural models, with a focus on natural language processing tasks and pretrained models. I am currently working on developing evaluation and modeling techniques for large pretrained langauge models to provide [faithful](https://arxiv.org/abs/2004.03685), yet readable, explanations for their decisions.
 
-I was a visiting researcher at Facebook AI Research, Seattle in 2020. I have an MS in Language Technologies from [LTI](https://www.lti.cs.cmu.edu/), Carnegie Mellon University and a B.Tech in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/). My [CV](https://bhargaviparanjape.github.io/documents/Resume_2020.pdf).
+I was a visiting researcher at Facebook AI Research, Seattle in 2020. I am interning at Google AI, mentored by Ian Tenney and Matthew Lamm, in Summer 2021.
+
+I have an MS in Language Technologies from [LTI](https://www.lti.cs.cmu.edu/), Carnegie Mellon University and a B.Tech in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/). My [CV](https://bhargaviparanjape.github.io/documents/Resume_2020.pdf).
+
 
 ---
 
